@@ -22,20 +22,15 @@ function setContent() {
      Main Heading
     </h2>
     <p class="text-start lh-lg" data-type data-type-min="1" data-type-max="6">
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur animi 
-    labore blanditiis dolores voluptas aut eligendi exercitationem perferendis autem 
-    distinctio dolorum magni a quae, facilis excepturi debitis, corrupti suscipit odio. 
-    Recusandae temporibus nobis quod sunt distinctio! Temporibus architecto amet saepe nostrum 
-    ullam dolor nihil soluta magni natus modi nam quasi alias vero ipsa iusto ea, adipisci iure 
-    libero quae numquam, illum animi assumenda voluptas tempora. 
-    Numquam impedit voluptatum ipsam ducimus.
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur animi 
-    labore blanditiis dolores voluptas aut eligendi exercitationem perferendis autem 
-    distinctio dolorum magni a quae, facilis excepturi debitis, corrupti suscipit odio. 
-    Recusandae temporibus nobis quod sunt distinctio! Temporibus architecto amet saepe nostrum 
-    ullam dolor nihil soluta magni natus modi nam quasi alias vero ipsa iusto ea, adipisci iure 
-    libero quae numquam, illum animi assumenda voluptas tempora. 
-    Numquam impedit voluptatum ipsam ducimus.
+    JavaScript (JS) is a cross-platform, object-oriented programming language used by developers to make web pages interactive. 
+    It allows developers to create dynamically updating content, use animations, pop-up menus, clickable buttons, control multimedia, etc.
+    It is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much
+    everything else. (Okay, not everything, but it is amazing what you can achieve with a few lines of JavaScript code.)
+    It is a programming language used primarily by Web browsers to create a dynamic and interactive experience for the user. Most of the
+    functions and applications that make the Internet indispensable to modern life are coded in some form of JavaScript.
+    It is ightweight, cross-platform, single-threaded, and interpreted compiled programming language. It is also known as the scripting
+    language for webpages. It is well-known for the development of web pages, and many non-browser environments also use it.
+    It can update and change both HTML and CSS. JavaScript can calculate, manipulate and validate data.
     </p>
   </div>
 </div>
