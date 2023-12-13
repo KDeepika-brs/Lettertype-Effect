@@ -19,7 +19,7 @@ function setContent() {
   <div class="container">
   <div class="row">
     <h2 data-type data-type-min="100" data-type-max="300">
-     Main Heading
+     JAVASCRIPT (JS) :
     </h2>
     <p class="text-start lh-lg" data-type data-type-min="1" data-type-max="6">
     JavaScript (JS) is a cross-platform, object-oriented programming language used by developers to make web pages interactive. 
