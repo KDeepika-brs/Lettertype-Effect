@@ -100,7 +100,7 @@ header .bg-gradient {
 }
 
 body {
-    background: url("../img/BG.png");
+    background: url("../img/bg.jpg");
     background-size: cover;
 }
 
@@ -140,6 +140,7 @@ header p {
     font: 600 12px/15px Poppins;
     letter-spacing: 0.24px;
     color: #191919;
+    padding-top: 10px;
 }
 
 .ReactTitle {
